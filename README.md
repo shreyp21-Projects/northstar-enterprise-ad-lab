@@ -92,7 +92,7 @@ The script automatically:
 
 Used the script to provision **10 domain users across IT, HR, Finance, and Sales**.
 
-> PowerShell source code and sample CSV will be available in the `/scripts` directory.
+**Project files:** [PowerShell Provisioning Script](scripts/New-NorthstarUsers.ps1) | [Sample User Data](scripts/users.csv)
 
 ---
 
